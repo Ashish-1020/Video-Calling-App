@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.aashu.natalks.app-mergeDebugResources-55:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ashish Yadav\\.gradle\\caches\\8.13\\transforms\\803dbc4b22a4fc51a1a6bef2114fce4a\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
